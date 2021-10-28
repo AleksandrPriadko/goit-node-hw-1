@@ -1,1 +1,1 @@
-[### node index.js -a list](https://prnt.sc/1xn3lp2)
+### 1. [node index.js -a list](https://prnt.sc/1xn3lp2)
